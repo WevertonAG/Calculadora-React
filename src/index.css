@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Poppins:wght@500&family=Roboto+Mono&display=swap');
+*{
+  font-family: 'RobotoMono', monospace ;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #fff;
+  background: linear-gradient(to right , rgb(83,105,188), rgb(41,46,73));
+  overflow: hidden;
+}
